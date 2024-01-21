@@ -1,4 +1,4 @@
-package com.example.pokemon
+package com.example.pokemon.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -12,7 +12,6 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.core.view.WindowCompat
-import com.example.pokemon.ui.PokemonApp
 import com.example.pokemon.ui.theme.PokemonTheme
 
 /**
